@@ -1,0 +1,136 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Gastón",
+      "surnames": "Bermúdez Rochietti",
+      "title": "%%HEADLINE%%",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/04/88751d4c-783b-4f47-b017-38501a586350_enh.jpg",
+        "alt": "enh.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ9erPzezNQQwRcHhmQkb-qVQ)",
+        "country": "España",
+        "region": "Canarias",
+        "municipality": "La Laguna"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/gaston-b-rochietti"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/gastbr"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "DE",
+        "fullName": "Alemán",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/gaston-b-rochietti",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/gastbr",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ]
+  }
+}
