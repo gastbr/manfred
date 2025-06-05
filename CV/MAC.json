@@ -111,6 +111,38 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Arvato Bertelsmann",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/05/2e02a0b5-42e9-4c2e-95ea-ba6f61cd21d7_csm_arvato_large_45e.png",
+            "alt": "csm_Arvato_large_45e381ab4e.png"
+          },
+          "URL": "https://arvato.com/"
+        },
+        "roles": [
+          {
+            "name": "Técnico de operaciones",
+            "startDate": "2021-08-01",
+            "finishDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "- Gestión de bases de datos e inventario en almacén tecnológico en Venlo (Países Bajos).\n- Coordinaciíon de QA con equipo Microsoft y liderazgo multicultural.\n- Uso avanzado de SAP, Excel y SharePoint."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "SAP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
