@@ -131,6 +131,73 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CFGS Desarrollo de aplicaciones web",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "CIFP Majada Marcial (Canarias)",
+          "description": "Desarrollo de aplicaciones full-stack. Enfoque en desarrollo con Laravel, React, diseño e implementación de bases de datos relacionales y despliegues con CI/CD en VPS con Nginx y Apache, así como el desarrollo y uso de APIs RESTful."
+        },
+        "finishDate": "2025-05-01",
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Laravel",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Nginx",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
     "softSkills": [
       {
         "skill": {
