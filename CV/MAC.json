@@ -89,6 +89,28 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Ereza Hoteles",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/05/caeca55f-19df-4bf4-af47-9526a38a49b5_images.jpeg",
+            "alt": "images.jpeg"
+          },
+          "URL": "https://www.ereza.es/"
+        },
+        "roles": [
+          {
+            "name": "Especialista administrativo",
+            "startDate": "2023-03-01",
+            "finishDate": "2023-10-01",
+            "challenges": [
+              {
+                "description": "- Gestión operativa de hotel de 183 habitaciones.\n- Control de inventario y contabilidad.\n- Uso avanzado de Excel y ICG Manager."
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
