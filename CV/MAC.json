@@ -196,6 +196,17 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Estudios Ingleses",
+        "startDate": "2012-09-01",
+        "institution": {
+          "name": "Universidad de La Laguna",
+          "description": "Grado universitario centrado en literatura, lingüística, historia y cultura de países de habla inglesa. Con especial foco en estudios sociológicos de género e identidad."
+        },
+        "finishDate": "2017-09-01"
       }
     ],
     "softSkills": [
