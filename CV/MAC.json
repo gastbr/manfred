@@ -40,7 +40,7 @@
           "description": "Plataforma educativa de código abierto para la gestión de clases presenciales y virtuales. Cuenta con paneles de control según el rol, calendarios interactivos, monederos virtuales y control de asistencia. Desarrollada con FastAPI y Next.js.\n\nProyecto desarrollado en FastAPI y NextJS durante el desarrollo de las prácticas de mi ciclo formativo en Telespazio Ibérica.",
           "URL": "https://github.com/gastbr/flextudy",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/05/ea0040bf-3134-41b6-83cc-5d56b68ed6c6_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/05/3b6fe0c6-4c3f-46e9-9cbe-5c26cfcda3fb_logo.png",
             "alt": "logo.png"
           }
         },
