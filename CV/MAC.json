@@ -87,6 +87,12 @@
           "name": "Adaptabilidad al cambio",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
       }
     ]
   },
