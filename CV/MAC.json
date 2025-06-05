@@ -32,6 +32,55 @@
       }
     ]
   },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Flextudy",
+          "description": "Plataforma educativa de código abierto para la gestión de clases presenciales y virtuales. Cuenta con paneles de control según el rol, calendarios interactivos, monederos virtuales y control de asistencia. Desarrollada con FastAPI y Next.js.\n\nProyecto desarrollado en FastAPI y NextJS durante el desarrollo de las prácticas de mi ciclo formativo en Telespazio Ibérica.",
+          "URL": "https://github.com/gastbr/flextudy",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/05/ea0040bf-3134-41b6-83cc-5d56b68ed6c6_logo.png",
+            "alt": "logo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-03-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2025-06-01"
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
@@ -153,6 +202,11 @@
         "type": "technology"
       }
     ],
-    "goodPractices": "Estoy en un proceso constante de afianzar los principios que considero fundamentales para un desarrollo de calidad. Si bien conozco desde hace tiempo (y de manera más teórica que práctica) acrónimos como SOLID o KISS, he aprendido a valorarlos realmente al enfrentarme a problemas derivados de no aplicarlos correctamente. Evitar la sobreingeniería, modularizar con sentido y mantener la simplicidad del código son prácticas que hoy considero esenciales.\n\nDe la misma manera, en mi último proyecto entendí de forma clara la importancia de los tests automatizados, especialmente al avanzar en funcionalidades sin una base sólida que los respalde. A partir de ahí, los he empezado a incorporar progresivamente como parte natural del proceso de desarrollo.\n\nEn mis proyectos, intento modularizar enfocándome principalmente en la claridad y la reutilización del código. Me esfuerzo por encontrar un equilibrio entre una codebase con muchos archivos de pocas líneas y otra con pocos archivos con miles de líneas (porque no siempre \"más modular\" implica \"mejor código\"). Al final, lo más importante para mí es que quien lea mi código (incluido mi yo del futuro) pueda entenderlo de la mejor manera posible."
+    "goodPractices": "Estoy en un proceso constante de afianzar los principios que considero fundamentales para un desarrollo de calidad. Si bien conozco desde hace tiempo (y de manera más teórica que práctica) acrónimos como SOLID o KISS, he aprendido a valorarlos realmente al enfrentarme a problemas derivados de no aplicarlos correctamente. Evitar la sobreingeniería, modularizar con sentido y mantener la simplicidad del código son prácticas que hoy considero esenciales.\n\nDe la misma manera, en mi último proyecto entendí de forma clara la importancia de los tests automatizados, especialmente al avanzar en funcionalidades sin una base sólida que los respalde. A partir de ahí, los he empezado a incorporar progresivamente como parte natural del proceso de desarrollo.\n\nEn mis proyectos, intento modularizar enfocándome principalmente en la claridad y la reutilización del código. Me esfuerzo por encontrar un equilibrio entre una codebase con muchos archivos de pocas líneas y otra con pocos archivos con miles de líneas (porque no siempre \"más modular\" implica \"mejor código\"). Al final, lo más importante para mí es que quien lea mi código (incluido mi yo del futuro) pueda entenderlo de la mejor manera posible.",
+    "projects": [
+      {
+        "name": "Flextudy"
+      }
+    ]
   }
 }
