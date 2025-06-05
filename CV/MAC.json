@@ -33,6 +33,64 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Telespazio Ibérica",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/05/f11e36ee-a6b2-4ce1-bd0d-f33ba054efe8_telespazio_logo.jpeg",
+            "alt": "telespazio_logo.jpeg"
+          },
+          "URL": "https://www.telespazio.es/es/home"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador full-stack en prácticas",
+            "startDate": "2025-03-01",
+            "finishDate": "2025-06-01",
+            "challenges": [
+              {
+                "description": "Desarrollé una aplicación web full-stack para la gestión de centros de clases particulares, utilizando FastAPI para el backend y Next.js para el frontend. La plataforma permite a los profesores crear clases y gestionar su oferta académica, mientras que los estudiantes pueden inscribirse en las sesiones disponibles. Incluye, además, funcionalidades clave para la administración educativa.\n\nEl código fuente está disponible públicamente en GitHub: gastbr/flextudy"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Swagger",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
